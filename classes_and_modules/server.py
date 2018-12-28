@@ -72,5 +72,3 @@ if __name__ == "__main__":
     # server.get_attribute()
     serverprice.get_attribute()
     serverprice.get_server_price()
-
-
